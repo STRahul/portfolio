@@ -47,7 +47,7 @@ const ContactMe = (e) => {
     setIsFormSubmitting(true);
 
     try {
-     const result = await emailjs.sendForm(
+     await emailjs.sendForm(
         EmailJS_SERVICE_ID,
         EmailJS_TEMPLATE_ID,
         form.current,

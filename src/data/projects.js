@@ -12,7 +12,7 @@ export const projects = [
     id: 2,
     title: "Foodvilla",
     img: "/img/foodvilla.png",
-    adressUrl: "https://foodvilla-app.netlify.app/",
+    adressUrl: null,
     codeUrl: "https://github.com/STRahul/Foodvilla.git",
     description:
       "Indulge your taste buds with the Foodvilla food ordering app, a culinary adventure crafted with innovation. Leveraging Swiggy's API for a vast and diverse menu, the application boasts features like easy menu navigation, seamless item addition to the cart, and a streamlined checkout process. Developed with React, Redux Toolkit, Tailwind CSS, and Parcel Bundler, this app delivers a delightful user experience. With a responsive interface and efficient routing, Foodvilla ensures a hassle-free journey from menu exploration to satisfying your cravings. ",
