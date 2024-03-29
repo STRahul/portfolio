@@ -31,7 +31,7 @@ const Intro = () => {
             </button>
           </Link>
           <a
-            href="/img/Rahul.Tomar.pdf"
+            href="/img/Rahul.Tomar.docx"
             download="Rahul's Resume"
             target="_blank"
             rel="noopener noreferrer">
